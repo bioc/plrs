@@ -1,5 +1,5 @@
 Package: plrs
-Version: 1.29.0
+Version: 1.29.1
 Type: Package
 Title: Piecewise Linear Regression Splines (PLRS) for the association
         between DNA copy number and gene expression
@@ -15,3 +15,4 @@ Description: The present package implements a flexible framework for
         (PLRS).
 License: GPL (>=2.0)
 biocViews: Regression
+PackageStatus: Deprecated
